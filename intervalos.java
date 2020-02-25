@@ -17,7 +17,7 @@ public class intervalos {
 		numero = sc.nextDouble();
 
 		if (numero < 0.0 || numero > 100.0) {
-			System.out.println("Número fora de intervalo!");
+			System.out.println("NÃºmero fora de intervalo!");
 		}
 
 		else if (numero <= 25.0) {
@@ -39,5 +39,5 @@ public class intervalos {
 		sc.close();
 
 	}
-
+	
 }
