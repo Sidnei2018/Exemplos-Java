@@ -1,8 +1,8 @@
-package condicoes.com.sidnei;
+package condicao.com.sidnei;
 
 import java.util.Scanner;
 
-public class parImpar {
+public class ParImpar {
 
 	public static void main(String[] args) {
 		// numeros pares e impares

@@ -1,8 +1,8 @@
-package condicoes.com.sidnei;
+package condicao.com.sidnei;
 
 import java.util.Scanner;
 
-public class duracaoJogo {
+public class DuracaoJogo {
 
 	public static void main(String[] args) {
 		// calcula duracao de um jogo de futebol

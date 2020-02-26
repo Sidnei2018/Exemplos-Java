@@ -2,7 +2,7 @@ package java.com.sidnei;
 
 import java.util.Scanner;
 
-public class diferenca {
+public class Diferenca {
 
 	public static void main(String[] args) {
 

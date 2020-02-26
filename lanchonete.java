@@ -1,8 +1,8 @@
-package condicoes.com.sidnei;
+package condicao.com.sidnei;
 
 import java.util.Scanner;
 
-public class lanchonete {
+public class Lanchonete {
 
 	public static void main(String[] args) {
 		// lanchonete

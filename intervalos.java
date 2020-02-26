@@ -1,9 +1,9 @@
-package condicoes.com.sidnei;
+package condicao.com.sidnei;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class intervalos {
+public class Intervalos {
 
 	public static void main(String[] args) {
 		// intervalo entre numeros
@@ -17,7 +17,7 @@ public class intervalos {
 		numero = sc.nextDouble();
 
 		if (numero < 0.0 || numero > 100.0) {
-			System.out.println("NÃºmero fora de intervalo!");
+			System.out.println("Número fora de intervalo!");
 		}
 
 		else if (numero <= 25.0) {
@@ -37,7 +37,7 @@ public class intervalos {
 		}
 
 		sc.close();
-		
+
 	}
-	
+
 }

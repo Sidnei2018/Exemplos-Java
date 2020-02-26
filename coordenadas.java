@@ -1,9 +1,9 @@
-package condicoes.com.sidnei;
+package condicao.com.sidnei;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class coordenadas {
+public class Coordenadas {
 
 	public static void main(String[] args) {
 		// coordenadas de x, y

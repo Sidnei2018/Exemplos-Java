@@ -1,8 +1,8 @@
-package condicoes.com.sidnei;
+package condicao.com.sidnei;
 
 import java.util.Scanner;
 
-public class positivoNegativo {
+public class PositivoNegativo {
 
 	public static void main(String[] args) {
 		// numeros negativos ou nao

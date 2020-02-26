@@ -3,7 +3,7 @@ package java.com.sidnei;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class horaTrabalho {
+public class HoraTrabalho {
 
 	public static void main(String[] args) {
 

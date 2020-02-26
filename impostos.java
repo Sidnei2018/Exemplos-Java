@@ -1,9 +1,9 @@
-package condicoes.com.sidnei;
+package condicao.com.sidnei;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class impostos {
+public class Impostos {
 
 	public static void main(String[] args) {
 		// desconto de impostos

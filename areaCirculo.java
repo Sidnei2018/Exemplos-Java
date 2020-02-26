@@ -3,7 +3,7 @@ package java.com.sidnei;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class areaCirculo {
+public class AreaCirculo {
 
 	public static void main(String[] args) {
 

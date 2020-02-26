@@ -1,6 +1,6 @@
 package java.com.sidnei;
 
-public class produtos {
+public class Produtos {
 
 	public static void main(String[] args) {
 		// declarando as variáveis
