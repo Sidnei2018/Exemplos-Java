@@ -3,10 +3,10 @@ package atribuicao.com.sidnei;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class SwitchCase {
+public class DiaDaSemana {
 
 	public static void main(String[] args) {
-		// sintaxe opcional
+		// sintaxe opcional switch case
 
 		int num;
 		String dia;
@@ -14,7 +14,7 @@ public class SwitchCase {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("Digite um número de 1 a 7");
+		System.out.println("Digite um nÃºmero de 1 a 7");
 		num = sc.nextInt();
 
 		switch (num) {
@@ -25,7 +25,7 @@ public class SwitchCase {
 			dia = "Segunda-feira";
 			break;
 		case 3:
-			dia = "Terça-feira";
+			dia = "TerÃ§a-feira";
 			break;
 		case 4:
 			dia = "Quarta-feira";
@@ -37,10 +37,10 @@ public class SwitchCase {
 			dia = "Sexta-feira";
 			break;
 		case 7:
-			dia = "Sábado";
+			dia = "SÃ¡bado";
 			break;
 		default:
-			dia = "Inválido!";
+			dia = "InvÃ¡lido!";
 			break;
 		}
 
